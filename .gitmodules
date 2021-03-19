@@ -1,3 +1,6 @@
 [submodule "acfcustommod"]
 	path = acfcustommod
 	url = https://github.com/bouletmarc/ACF_CustomMod.git
+[submodule "armoredcombatextended"]
+	path = armoredcombatextended
+	url = https://github.com/RedDeadlyCreeper/ArmoredCombatExtended
