@@ -4,3 +4,6 @@
 [submodule "armoredcombatextended"]
 	path = armoredcombatextended
 	url = https://github.com/RedDeadlyCreeper/ArmoredCombatExtended
+[submodule "acfextras"]
+	path = acfextras
+	url = https://github.com/nrlulz/ACF-Extras.git
